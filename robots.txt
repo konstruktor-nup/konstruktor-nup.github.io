@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://konstruktor-nup.github.io/sitemap.xml
